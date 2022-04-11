@@ -1,5 +1,5 @@
 # GEOG 4046 Assignments 10 and 11
-The assignment 10 and 11 for GEOG 4046
+The assignments 10 and 11 for GEOG 4046
 
 ## Current Weather
 A map showing real-time weather radar and alerts from National Weather Service. 
